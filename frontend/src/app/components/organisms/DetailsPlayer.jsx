@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import PlayerInfo from '../molecules/PlayerInfo';
 import PlayerStats from '../molecules/PlayerStats';
 import PlayerTrophie from '../molecules/PlayerTrophie';
